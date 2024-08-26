@@ -1,3 +1,3 @@
-document.getElementById('saludar').addEventListener('click', function(){
+document.getElementById('saludar').addEventListener('dblclick', function(){
     alert("Hola soy el div!");
 });
